@@ -10,6 +10,7 @@ Desenvolver um CRUD de um JORNAL ELETRÔNICO.
 ### 📋 Pré-requisitos
 
 Banco de Dados: que está em "bancoDados"
+importar o banco de dados no phpmyadmin com o arquivo contido na pasta bancoDados
 
 ### 🔧 Instalação
 
