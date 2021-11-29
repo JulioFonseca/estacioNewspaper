@@ -1,0 +1,49 @@
+.body-default{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.card {
+    border: none;
+    min-width: 265px;
+    min-height: 280px;
+    border-radius: 16px
+}
+.badge-green span {
+    background-color: #dae4ff;
+    width: 60px;
+    height: 25px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    display: flex;
+    color: #5db0fe;
+    justify-content: center;
+    align-items: center;
+    margin-left: 8px;
+    width: 100%; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+}
+
+.badge-red span {
+    background-color: #ffdada;
+    width: 60px;
+    height: 25px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    display: flex;
+    color: #fe5d5d;
+    justify-content: center;
+    align-items: center;
+    margin-left: 8px;
+    width: 100%; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+}
+.card-text{
+    white-space: nowrap; 
+  width: 100%; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+}
